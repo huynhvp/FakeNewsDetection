@@ -3,6 +3,6 @@ We use the attention-based encoder part of the Transformer and the linguistic fe
 
 **Reference:**
 
-Model: Encoder-Transformer [ https://github.com/tensorflow/models/tree/master/official/transformer ]
+Model: Encoder-Transformer [ https://github.com/tensorflow/models/tree/master/official/transformer ] and [https://github.com/tensorflow/nmt]
 
 Dataset: politifact [ https://github.com/KaiDMML/FakeNewsNet ]
